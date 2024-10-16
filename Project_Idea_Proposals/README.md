@@ -1,4 +1,4 @@
-Each group member should create a proposal for a sigle project. This is just a sigle .pdf with a short description of the idea with some visuals. 
+Each group member should create a proposal for a single project. This is just a single .pdf with a short description of the idea with some visuals. 
 
 3 of the 5 will be chosen by vote for submission.
 
