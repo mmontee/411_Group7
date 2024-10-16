@@ -24,4 +24,4 @@ Don't go nuts on this home work assignment, keep the entire assignment to a page
 Please submit as a PDF, with your team number in the body of the document and in the filename.
 
 Finally, please update the Practicum Teams Google SheetLinks to an external site. with your project name.
-=================================================================================================
+
