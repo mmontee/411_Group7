@@ -7,4 +7,5 @@ Decision matrix sheet:<br>
 https://docs.google.com/spreadsheets/d/1eD4bU1PSHvnIHJjQp7CIA1_oRjcmT8zQqf65oZdo7yo/edit?gid=0#gid=0<br>
 Decision matrix deliverable document:<br>
 https://docs.google.com/document/d/1ifG8m_yKul6lawxM7RGC06Qm2UjNfSLFXjXEhdREGek/edit?usp=sharing<br>
-
+Gantt chart
+https://pdx102634.monday.com/boards/7799755810
