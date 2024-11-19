@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Anti-Squirrel Birdwatch Feeder Draft Schematic")
-		(date "2024-11-17")
+		(date "2024-11-19")
 		(rev "D")
 		(company "Group 7: Annika Boyd, Sal Esmaeil, Mitch Montee, Nate Sjullie, Nitin Suryadevara")
 	)
@@ -5558,7 +5558,7 @@
 				)
 			)
 		)
-		(property "Footprint" "XIAO_:XIAO_QTpy_SMD"
+		(property "Footprint" "XIAO_:XIAO_QTpy"
 			(at 115.57 97.79 0)
 			(effects
 				(font
