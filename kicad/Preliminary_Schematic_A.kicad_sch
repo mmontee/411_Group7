@@ -4380,7 +4380,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TP_TOF_pin5"
+		(property "Value" "TOF_pin5"
 			(at 86.36 42.4179 0)
 			(effects
 				(font
@@ -4514,7 +4514,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TP_GND"
+		(property "Value" "GND"
 			(at 212.09 102.1079 0)
 			(effects
 				(font
@@ -4716,7 +4716,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TP_+5V"
+		(property "Value" "+5V"
 			(at 162.56 93.2179 0)
 			(effects
 				(font
@@ -4952,7 +4952,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TP_LC_SDA"
+		(property "Value" "LC_SDA"
 			(at 158.75 119.8879 0)
 			(effects
 				(font
@@ -5158,7 +5158,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TP_3.3V"
+		(property "Value" "3.3V"
 			(at 154.94 110.9979 0)
 			(effects
 				(font
@@ -5955,7 +5955,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "TP_TOF_SDA"
+		(property "Value" "TOF_SDA"
 			(at 152.4 80.7719 0)
 			(effects
 				(font
@@ -6022,7 +6022,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TP_PWM"
+		(property "Value" "PWM"
 			(at 90.17 150.3679 0)
 			(effects
 				(font
@@ -6089,7 +6089,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TP_NMOS_Gate"
+		(property "Value" "NMOS_Gate"
 			(at 148.59 165.6079 0)
 			(effects
 				(font
@@ -6425,7 +6425,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "TP_LC_SCL"
+		(property "Value" "LC_SCL"
 			(at 158.75 136.6519 0)
 			(effects
 				(font
@@ -6778,7 +6778,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "TP_TOF_SCL"
+		(property "Value" "TOF_SCL"
 			(at 134.62 80.7719 0)
 			(effects
 				(font
